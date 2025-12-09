@@ -1,7 +1,7 @@
 # Hel AQI Desktop Widget (Windows, Rainmeter)
 
 <p align="center">
-  <img src="hel-aqi-widget-win/blob/main/rainmeter/%40Resources/screenshot.png" width="600">
+  <img src="rainmeter/@Resources/screenshot.png" width="600">
 </p>
 
 Small desktop widget for Windows that shows real-time air quality from nearby
