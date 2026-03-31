@@ -194,7 +194,7 @@ File overview
    * @Resources/aqi_graph_home.png, aqi_graph_vanya.png – generated graph images.
    * @Resources/icons/ – arrow icons for AQI trends.
 
-License
+License MIT
 
 This project is currently shared without an explicit open-source license.
 If you want other people to freely reuse and modify the code, consider adding
